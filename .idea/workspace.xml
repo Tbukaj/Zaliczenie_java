@@ -4,25 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f73096c-fc44-4f91-9c42-ffaaf091d4be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/example/spring/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/example/spring/controlers/controler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/example/spring/entities/entitie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/src/test/java/com/example/spring/ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="6f73096c-fc44-4f91-9c42-ffaaf091d4be" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/example/spring/repo/people.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/example/spring/services/people_service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/src/main/java/com/example/spring/entities/entitie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/src/main/java/com/example/spring/entities/entitie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +40,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
     "node.js.detected.package.eslint": "true",
@@ -82,12 +67,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688154109750</updated>
-      <workItem from="1688154110824" duration="1030000" />
+      <workItem from="1688154110824" duration="1512000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1688155172454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688155172454</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
